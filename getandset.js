@@ -1,3 +1,11 @@
+
+let localstorage = []
+
+
+
+
+
+
 $('.place').on('input',function(){
 
    if(
@@ -20,8 +28,54 @@ $('#privacy1').dblclick(function(){
 })
 
 
-if($('#privacy1').css('background','white')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//  let background = $('#privacy1').css('accent-color','green')
+
+// if($('#privacy1') = background
     
-){
-    $('button').attr(('disabled',true))
-}
+// ){
+//     $('button').attr(('disabled',true))
+// }else{
+//     $('button').attr(('disabled',false))
+// }
+
+
+
+// $(".box").click(function () {
+
+
+//     let current_color =
+//         $(this).css("background-color");
+
+
+//     $(".current-color-text").text(
+//         current_color
+//     );
+
+//     $(".box").html('');
+//     $(this).html('<b class="current-color-text">'+current_color+'</b>');
+    
+//     });

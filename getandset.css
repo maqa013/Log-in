@@ -117,6 +117,8 @@ button:hover:active{
 .label1{
     color: white;
     position: absolute;
-    top: 413px;
+    top: 414px;
     left: 710px;
+    font-family: sans-serif;
+    font-size: 13px;
 }
